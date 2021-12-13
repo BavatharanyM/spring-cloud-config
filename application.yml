@@ -1,5 +1,5 @@
 erver:
-  port: 8190
+  port: 8191
 spring:
   cloud:
     config:
